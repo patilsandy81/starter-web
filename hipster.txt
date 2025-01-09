@@ -2,3 +2,5 @@ We received information that part of the chimney, silo colla ..
 
 Read more at:
 h[3~[3~[A[3~[3~[C[C[C[C[C[C[C[C
+
+f you installed Git for windows and have no previous knowledge about Linux (like the original question seems to imply) then you should know about vim.c
